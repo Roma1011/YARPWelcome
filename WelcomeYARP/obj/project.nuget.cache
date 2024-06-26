@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HuO1AxL+nb6Mm1bP+/ZZQuG/g7x3UZnjvVa9q9TyFb5FF64DuR2ZBIYLxfMowMDNvB0n6O4HRko2b9Hc3pGdWQ==",
+  "success": true,
+  "projectFilePath": "F:\\Programing\\c# .NET\\WelcomeYARP\\WelcomeYARP\\WelcomeYARP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\system.io.hashing\\7.0.0\\system.io.hashing.7.0.0.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\yarp.reverseproxy\\2.1.0\\yarp.reverseproxy.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
